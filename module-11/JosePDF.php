@@ -3,7 +3,7 @@ Jose Velazquez
 Module 11.2 Assignment
 10/06/2026
 Purpose: This program creates a PDF containing all movie records stored
-in the Module 8 database.
+in the Module 8 database. This is a landing page. 
 -->
 
 
